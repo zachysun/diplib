@@ -1,2 +1,2 @@
-# IPCV
-Images process module
+# diplib
+A Digital image process module
