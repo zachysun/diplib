@@ -1,0 +1,4 @@
+matplotlib==3.7.1
+numpy==1.23.5
+opencv_python_headless==4.7.0.68
+skimage==0.22.0
